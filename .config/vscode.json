@@ -1,0 +1,42 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "git.autofetch": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "typescript.format.insertSpaceAfterTypeAssertion": true,
+  "xo.format.enable": true,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+
+  "emmet.includeLanguages": {
+    "phoenix-heex": "html",
+    "html-eex": "html"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "samverschueren.linter-xo"
+  },
+  "gopls": {
+    "build.experimentalWorkspaceModule": true
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+
